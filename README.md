@@ -7,8 +7,8 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Visual Basic GUI Presentation](https://www.youtube.com/watch?v=a83ASGn_V_s](https://youtu.be/UZCORkN0I5Q?si=9uGGn9R6v-j2ssWN)
-- [IT Help Desk How to set up Outlook inbox][[(https://www.youtube.com/watch?v=uHy3oM7NnoU)](https://youtu.be/HjMajth_Cf0)](https://youtu.be/OqMmLoMr9L0)
+- [Visual Basic GUI Presentation][(https://www.youtube.com/watch?v=a83ASGn_V_s](https://youtu.be/UZCORkN0I5Q?si=9uGGn9R6v-j2ssWN)](https://youtu.be/UZCORkN0I5Q?si=xiyltvHHbiXvlmpo)
+- [IT Help Desk How to set up Outlook inbox](https://www.youtube.com/watch?v=uHy3oM7NnoU)](https://youtu.be/HjMajth_Cf0)](https://youtu.be/OqMmLoMr9L0)](https://youtu.be/OqMmLoMr9L0)
 
 <h2> 🤳 Connect with me:</h2>
 
